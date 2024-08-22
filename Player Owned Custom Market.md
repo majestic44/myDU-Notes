@@ -54,10 +54,10 @@ Click on the **Markets Tab**
 Scroll down until you find the new market you have just created. <sup>It will most likely be named **"My Market"** </sup>
 
 Copy the "ID" of the created Market
-![[Pasted image 20240822091952.png]]
+<img src="https://github.com/majestic44/myDU-Notes/blob/main/images/marketID.png?raw=true"/>
 
 Scroll Down to the **BATCH PARAMETER UPDATE** section at the bottom of the page.
-![[Pasted image 20240822092335.png]]
+<img src="https://github.com/majestic44/myDU-Notes/blob/main/images/marketID.png?raw=true"/>
 Paste or type **Market ID** in the first filed outline in Red in this example
 
 Then type the desired name for your market in the **Update Parameters** section in the **Name** field.

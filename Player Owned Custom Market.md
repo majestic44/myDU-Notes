@@ -57,7 +57,7 @@ Copy the "ID" of the created Market
 <img src="https://github.com/majestic44/myDU-Notes/blob/main/images/marketID.png?raw=true"/>
 
 Scroll Down to the **BATCH PARAMETER UPDATE** section at the bottom of the page.
-<img src="https://github.com/majestic44/myDU-Notes/blob/main/images/marketID.png?raw=true"/>
+<img src="https://github.com/majestic44/myDU-Notes/blob/main/images/batchparameter.png?raw=true"/>
 Paste or type **Market ID** in the first filed outline in Red in this example
 
 Then type the desired name for your market in the **Update Parameters** section in the **Name** field.

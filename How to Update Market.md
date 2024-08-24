@@ -1,10 +1,12 @@
 >The Guide shows how to add items and update the marketbot items that are for sell, here I have made all items available on the market for sell.
 
 
-You can find a market items file [here](https://github.com/majestic44/myDU-Notes/blob/main/MarketID.csv) with all the items listed for sell to seed the market.
+**You can find a market items file [here](https://github.com/majestic44/myDU-Notes/blob/main/MarketID.csv) with all the items listed for sell to seed the market.**
+
 > [!NOTE]
 > You will need to edit the Sell and Buy prices for all the items I only put generic pricing for all Items.
 
+---------------------------------------------------------------------------------------------------------------------------
 
 > [!TIP]
 > **Format for the code is as follows:**

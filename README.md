@@ -1,7 +1,7 @@
 <h1 align="center">
    Notes and Guides for myDU Administration
 </h1>
--------------------------------------------------
+
 This Repository is combination of files sourced from other creators and myself, most documents located here are geared towards helping others with the task of making changes and administration of myDU Servers.
 
 ###### Document List

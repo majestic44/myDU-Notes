@@ -6,7 +6,7 @@ A Linux server with docker and docker-compose installed, or a windows PC with do
 ----------------------------------------------------------------
 Default install requires 20Gb of disk space, and takes 3Gb of database size (mongodb + postgresql). This will grow with the number of constructs, blueprints and holes in the planets that are made. CPU-wise 4 to 8 cores should (no promises) work for a small bunch of players. Please note that industry units are quite CPU hungry, so you might need to beef up if you plan on making huge factories.
 
-## 🏦 Architecture overview 
+## 🏦 Architecture overview
 ----------------------------------------------------------------
 > [!IMPORTANT]
 > All exposed services except the front which is a direct GRPC connection are routed through a nginx HTTP server, to expose only public routes. A player client first connects to "queueing", the queuing service, which validates login and redirects player to a "front" with rate limiting.

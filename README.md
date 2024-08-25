@@ -3,7 +3,9 @@
 </h1>
 -------------------------------------------------
 This Repository is combination of files sourced from other creators and myself, most documents located here are geared towards helping others with the task of making changes and administration of myDU Servers.
+
 ###### Document List
+
 - [myDU Administrator Guide](https://github.com/majestic44/myDU-Notes/blob/main/MyDU%20Server%20Administrator%20Guide.md)
 - [General Notes](https://github.com/majestic44/myDU-Notes/blob/main/General%20Notes.md)
 - [How to Add Elements](https://github.com/majestic44/myDU-Notes/blob/main/How%20do%20I%20add%20elements%20to%20Dual%20Universe.md)

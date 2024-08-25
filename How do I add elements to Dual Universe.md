@@ -105,6 +105,7 @@ Nodes: contains a .node file that links the element definition to the mesh, as w
 
 To link our new element to the existing node, we just need to update the .nqdef in the defs folder. By default, the env_wing_004_s.nqdef file looks like this:
 
+```
 {
   "elements": {
     "WingXtraSmall 2": {
@@ -114,9 +115,10 @@ To link our new element to the existing node, we just need to update the .nqdef 
     }
   }
 }
-
+```
 We just need to add a new entry to the "elements" record to ensure that the element renders properly. Its important to make sure that the new element record name matches the name we used for the item definition in Back office.
 
+```
 {
   "elements": {
     "WingXtraSmall 2": {
@@ -131,7 +133,7 @@ We just need to add a new entry to the "elements" record to ensure that the elem
     }
   }
 }
-
+```
 
 And thats it, we added a new element, made it craftable, and then gave it a mesh for rendering. 
 

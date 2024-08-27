@@ -341,4 +341,6 @@ Those are defined in `data/market_orders`. For each market the system will recur
 `v3/audit.html` can be used to see the backoffice audit log, which shows all operations made through the backoffice that modified the state of the game.
 
 ### Credits
-NQ-Bearclaw
+----------------------------------------------------------------
+[NQ-Bearclaw
+](https://github.com/NQ-Bearclaw)

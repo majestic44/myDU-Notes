@@ -16,7 +16,7 @@ C:\Users\YOUR-USER-NAME\Dual Universe Server\data\market_orders
 
 > [!TIP]
 > **Format for the code is as follows:**
-> `Item,Quantity,SellPrice,0,BuyPrice`
+> `Item,Quantity,SellPrice,NumberToBuy,BuyPrice`
 
 ### Items with Null Tier
 ``` csv

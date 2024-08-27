@@ -4,6 +4,8 @@
 **You can find a market items file [here](https://github.com/majestic44/myDU-Notes/blob/main/Files/MarketID.csv) with all the items listed for sell to seed the market.**
 You can rename this file with the marketID .csv `Example 1.csv`.
 
+This file goes is 'C:\Users\YOUR-USER-NAME\Dual Universe Server\data\market_orders'
+
 > [!NOTE]
 > You will need to edit the Sell and Buy prices for all the items I only put generic pricing for all Items.
 

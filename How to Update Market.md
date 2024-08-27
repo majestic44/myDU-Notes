@@ -5,9 +5,9 @@
 You can rename this file with the marketID .csv `Example 1.csv`.
 
 This file goes in:
-'''
+```
 C:\Users\YOUR-USER-NAME\Dual Universe Server\data\market_orders
-'''
+```
 
 > [!NOTE]
 > You will need to edit the Sell and Buy prices for all the items I only put generic pricing for all Items.

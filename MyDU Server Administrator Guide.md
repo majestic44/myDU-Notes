@@ -339,3 +339,6 @@ Those are defined in `data/market_orders`. For each market the system will recur
 ----------------------------------------------------------------
 `v3/wallets.html` can be used to see wallet logs and notification logs. Finally,
 `v3/audit.html` can be used to see the backoffice audit log, which shows all operations made through the backoffice that modified the state of the game.
+
+### Credits
+NQ-Bearclaw

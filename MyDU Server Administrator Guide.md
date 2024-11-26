@@ -139,6 +139,13 @@ The myDU client has a `server list` feature that lists public myDU servers. You 
 - reconfigure `dual.yaml` to advertise the new https domain-based urls
 - reconfigure the `nginx` proxy to serve all ports with SSL
 
+## 🌮Wrapping up
+----------------------------------------------------------------
+Once SSL is enabled your stack only uses two ports: `443` and `9210`. Your stack server address becomes `https://du-queueing.MYDOMAIN:443`. The certificates are valid for 3 months and can be renewed by running:
+```
+./scripts/ssl.sh --update-certs
+```
+
 #### 🌍 Creating DNS entries
 ----------------------------------------------------------------
 The first step is to create 5 `A Records` in your DNS zone pointing to the IP of your server. This is usually accomplished through connecting to your domain registrar website. By default they are named `du-orleans` , `du-queueing` , `du-usercontent` , ` du-voxel` and `du-backoffice` , but those can be renamed to something else (see next section).
